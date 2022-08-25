@@ -69,10 +69,10 @@ class EstateDetailsView extends StatelessWidget {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               const Text(
-                                'Starting Price',
+                                'Starting Price:',
                                 style: TextStyle(
                                   fontWeight: FontWeight.w500,
-                                  fontSize: 36,
+                                  fontSize: 28,
                                 ),
                               ),
                               Text(
@@ -98,7 +98,8 @@ class EstateDetailsView extends StatelessWidget {
                       Center(
                         child: Container(
                           padding: const EdgeInsets.all(10.0),
-                          width: 100,
+                          width: double.infinity,
+                          height: 50,
                           color: AppColors.appButton,
                           child: const Center(
                             child: Text(

@@ -1,16 +1,34 @@
-# toby_estate
+# Real Estate UI Kit🔥 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
 
-A new Flutter project.
+A Real Estate UI kit written with flutter. In collaboration with a UI/UX designer.
 
-## Getting Started
+Star⭐ the repo if you like what you see😉.
 
-This project is a starting point for a Flutter application.
+[![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Flutter and dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 ScreenShots
+
+
+ <img src="ss/first.jpg" width="400">  <img src="ss/second.jpg" width="400"> 
+ <img src="ss/third.jpg" width="400">  <img src="ss/forth.jpg" width="400"> 
+ <img src="ss/fifth.jpg" width="400">  <img src="ss/sixth.jpg" width="400"> 
+
+
+
+## 🌗 Dark theme
+
+Adapts to device theme
+
+## 🤓 Author(s)
+
+**Olaifa Glory Israel** [![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
+
+## 🔖 LICENCE
+
+[WTFPL](http://www.wtfpl.net/about/)
